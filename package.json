@@ -1,0 +1,19 @@
+{
+  "name": "postcss-url-image",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dionatanaraujo/postcss-url-image.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dionatanaraujo/postcss-url-image/issues"
+  },
+  "homepage": "https://github.com/dionatanaraujo/postcss-url-image#readme"
+}
